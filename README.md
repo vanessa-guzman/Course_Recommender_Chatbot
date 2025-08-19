@@ -15,6 +15,6 @@
 * Connected Chat Trigger node, which starts the chatbot interaction, and Supabase node, which contains all the course information.
 * Connected Chat Model and Memory for generating accurate responses.
 
-**Link to web scraping code.** <br>
-**Link to code that combines course information.** <br>
-**Link to JSON file containing n8n workflow.**
+**Link to [web scraping](https://github.com/vanessa-guzman/Course_Recommender_Chatbot/blob/main/bmcc_courses_webscrape.ipynb) code.** <br>
+**Link to code that [combines course information](https://github.com/vanessa-guzman/Course_Recommender_Chatbot/blob/main/bmcc_unioning_all_courses.ipynb).** <br>
+**Link to [JSON file](https://github.com/vanessa-guzman/Course_Recommender_Chatbot/blob/main/Course_Recommender.json) containing n8n workflow for creating chatbot.**
